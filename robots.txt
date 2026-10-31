@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aarogund.github.io/amsageoservices/sitemap.xml
